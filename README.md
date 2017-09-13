@@ -9,7 +9,7 @@ http://github.com/Automic-Community/LVM-Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_LINUX_LVM_1.0.0.zip
+								*PCK.CUSTOM_LVM_1.0.0.zip
 								
 						
 
