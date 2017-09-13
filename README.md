@@ -17,7 +17,15 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>Action Pack to manage volumes on Linux/Unix</p>
+<p>Action Pack to manage volumes on Linux/Unix:</p>
+<ul>
+<li>Convert Volume to thinpool</li>
+<li>Add/Create Profile</li>
+<li>Resize Volume</li>
+<li>Change profile to thinpool</li>
+<li>Create Volume</li>
+<li>Enable Monitoring</li>
+</ul>
 
 Copyright and License
 ---
